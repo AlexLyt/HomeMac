@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="5211" started-at="2017-11-03T22:14:34Z" finished-at="2017-11-03T22:14:39Z">
+  <suite name="Default suite" duration-ms="7843" started-at="2017-11-11T23:33:16Z" finished-at="2017-11-11T23:33:24Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="5211" started-at="2017-11-03T22:14:34Z" finished-at="2017-11-03T22:14:39Z">
+    <test name="Default test" duration-ms="7843" started-at="2017-11-11T23:33:16Z" finished-at="2017-11-11T23:33:24Z">
       <class name="MavenSelenium.FirstMavenTest">
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:MavenSelenium.FirstMavenTest@2ef5e5e3]" name="SetUp" is-config="true" duration-ms="2753" started-at="2017-11-03T18:14:34Z" finished-at="2017-11-03T18:14:37Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:MavenSelenium.FirstMavenTest@2ef5e5e3]" name="SetUp" is-config="true" duration-ms="4934" started-at="2017-11-11T18:33:16Z" finished-at="2017-11-11T18:33:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="verifyHomepageTitle()[pri:0, instance:MavenSelenium.FirstMavenTest@2ef5e5e3]" name="verifyHomepageTitle" duration-ms="2168" started-at="2017-11-03T18:14:37Z" finished-at="2017-11-03T18:14:39Z">
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:0, instance:MavenSelenium.FirstMavenTest@2ef5e5e3]" name="verifyHomepageTitle" duration-ms="2273" started-at="2017-11-11T18:33:22Z" finished-at="2017-11-11T18:33:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHomepageTitle -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:MavenSelenium.FirstMavenTest@2ef5e5e3]" name="tearDown" is-config="true" duration-ms="276" started-at="2017-11-03T18:14:39Z" finished-at="2017-11-03T18:14:39Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:MavenSelenium.FirstMavenTest@2ef5e5e3]" name="tearDown" is-config="true" duration-ms="436" started-at="2017-11-11T18:33:24Z" finished-at="2017-11-11T18:33:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

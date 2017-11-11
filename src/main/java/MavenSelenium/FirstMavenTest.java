@@ -31,6 +31,9 @@ public class FirstMavenTest {
 		String newtext = text;
 		
 		System.out.println("Text is" + newtext);
+		
+		System.out.println(" Here is my changes for git ripo ");
+		
 	}
 
 	 @AfterClass
