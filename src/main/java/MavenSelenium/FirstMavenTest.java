@@ -33,6 +33,8 @@ public class FirstMavenTest {
 		System.out.println("Text is" + newtext);
 		
 		System.out.println(" Here is my changes for git ripo ");
+		System.out.println(" Adding cod from github");
+ 
 		
 	}
 
